@@ -1,2 +1,2 @@
-# Games-and-code
-repo for sample games and code
+# Sample code
+repo for some sample code
